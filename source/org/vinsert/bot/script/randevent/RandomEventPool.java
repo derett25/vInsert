@@ -32,6 +32,7 @@ public class RandomEventPool {
         register(new MysteryBox());
         register(new Mime());
         register(new Iles());
+        register(new Pillory());
     }
 
     /**
